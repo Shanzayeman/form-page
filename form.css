@@ -1,0 +1,73 @@
+#div1{
+    border: 1px solid rgb(238, 234, 234);
+    width: 600px;
+    height: 450px;
+    margin-top: 50px;
+    margin-left: 400px;
+    background-color: rgb(238, 234, 234);
+}
+#lab1{
+  position: absolute;
+  top: 100px;
+  left: 430px;
+}
+#one{
+    position: absolute;
+    top: 94px;
+    width: 390px;
+    height: 30px;
+    left: 570px;
+    padding-left: 10px;
+}
+#lab2{
+    position: absolute;
+  top: 150px;
+  left: 430px;
+}
+#two{
+    position: absolute;
+    top: 144px;
+    width: 390px;
+    height: 30px;
+    left: 570px; 
+    padding-left: 10px;
+}
+#lab3{
+    position: absolute;
+    top: 200px;
+    left: 434px;
+}
+#three{
+    position: absolute;
+    top: 190px;
+    width: 410px;
+    height: 35px;
+    left: 570px; 
+    font-size: small;
+    padding-left: 10px;
+}
+#lab4{
+    position: absolute;
+    top: 250px;
+    left: 434px;
+}
+#four{
+    position: absolute;
+    top: 240px;
+   padding-top: 10px;
+   padding-left: 10px;
+    left: 570px; 
+    font-size: small;
+}
+#btn1{
+    position: absolute;
+    top: 405px;
+    text-align: center;
+    width: 80px;
+    height: 33px;
+    left: 900px; 
+    font-size: small;
+    background-color: rgb(5, 194, 87);
+    border: 1px solid rgb(5, 194, 87);
+    border-radius: 5px;
+}
